@@ -1,0 +1,19 @@
+@import url("https://fonts.gstatic.com");
+
+
+html {
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Domine', serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Oleo Script', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
